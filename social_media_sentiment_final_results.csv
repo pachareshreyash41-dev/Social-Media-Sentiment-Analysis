@@ -1,0 +1,8 @@
+user,tweet,clean_tweet,sentiment,predicted_sentiment,vader_sentiment
+@tech_guy,I absolutely LOVE the new update! Fantastic performance improvement 🚀 https://t.co/xyz,absolutely love new update fantastic performance improvement,Positive,Negative,Positive
+@sarah_m,"This app is totally useless now. Crashes constantly, terrible service! 😡",app totally useless crashes constantly terrible service,Negative,Negative,Negative
+@foodie99,"It's alright, nothing special. Just an average day using it.",alright nothing special average day using,Positive,Positive,Negative
+@mark_d,Worst customer support ever... spent 3 hours waiting! #fail,worst customer support ever spent 3 hours waiting fail,Negative,Negative,Negative
+@gamer123,"Great experience! Quick delivery and amazing support team, highly recommend!",great experience quick delivery amazing support team highly recommend,Positive,Positive,Positive
+@coffeelover,"The recent price hike is disappointing, but the features are decent.",recent price hike disappointing features decent,Negative,Negative,Negative
+@travel_guru,Check out my new post! http://example.com #lifestyle #daily,check new post lifestyle daily,Neutral,Neutral,Neutral
